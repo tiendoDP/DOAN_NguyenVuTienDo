@@ -1,0 +1,1 @@
+<p>Vui lòng kiểm tra email của bạn để xác thực tài khoản</p>
